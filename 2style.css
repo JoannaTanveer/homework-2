@@ -11,6 +11,7 @@
 .navv {
     background-color:#a9a9aa;
     color:navy;
+    /* text-align: center; */
 
 }
 
@@ -23,16 +24,16 @@
 }
 
 .aboutMe {
-    text-align: center;
+    margin: 0 auto;
     color: #800080;
     
 }
 
 .covid {
-    width: 540px;
-    margin:20px
-    z-index: -1;
-    position:relative;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .textbox {
@@ -50,8 +51,8 @@
 
 }
 
-.card1 {
+/* .card1 {
     position: relative;
     float: center;
     offset: position 50%;
-}
+} */
