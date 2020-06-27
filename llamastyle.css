@@ -1,0 +1,22 @@
+body {
+    background-color: teal;
+}
+
+#pets {
+    color: rgb(20, 37, 88);
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    border: slateblue;
+    border-style: groove;
+}
+#six {
+    color: tomato;
+    font-family: serif;
+}
+
+#love {
+        font-size: 350%;
+        color: rgb(238, 10, 124);
+        text-align: center;
+}

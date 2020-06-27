@@ -6,12 +6,14 @@
 .top {
     background-color: rgb(228, 172, 218);
     height:60px;
+    font-family:'Poller one', cursive;
 }
 
 .navv {
     background-color:#a9a9aa;
     color:navy;
     /* text-align: center; */
+    font-family: 'Open Sans Condensed', sans-serif;
 
 }
 
@@ -26,6 +28,7 @@
 .aboutMe {
     margin: 0 auto;
     color: #800080;
+    font-family:'Poller one', cursive;
     
 }
 
@@ -37,12 +40,7 @@
 }
 
 .textbox {
-    width: 225px;
-    height: 225px;
-    float: right;
-    position: relative;
-    margin-top:200px;
-    z-index:absolute;
+    font-family: 'Open Sans Condensed', sans-serif;
 }
 
 .contactBody {
